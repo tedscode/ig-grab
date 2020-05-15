@@ -1,0 +1,13 @@
+{
+  "name": "ig-grabber",
+  "version": "1.0.0",
+  "description": "The easiest way to get Instagram photos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0"
+  }
+}
